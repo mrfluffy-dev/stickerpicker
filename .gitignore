@@ -5,6 +5,8 @@
 *.pyc
 __pycache__
 *.egg-info
+images
+build
 
 node_modules
 web/lib/import-map.json

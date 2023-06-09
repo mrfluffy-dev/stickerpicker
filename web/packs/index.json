@@ -1,6 +1,7 @@
 {
   "packs": [
-    "pepe.json"
+    "pepe.json",
+    "weeb.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
